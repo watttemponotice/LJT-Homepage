@@ -34,12 +34,12 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 
 ## Publications
 
-- **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](/publication/2025-05-01-synlogic)** (Arxiv, 2025)
-- **[On the Perception Bottleneck of VLMs for Chart Understanding](/publication/2025-06-01-perception-bottleneck-vlms-chart)** (Arxiv, 2025)
-- **[On the Universal Truthfulness Hyperplane Inside LLMs](/publication/2024-11-01-universal-truthfulness-hyperplane)** (EMNLP 2024)
-- **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](/publication/2024-06-01-in-context-sharpness-alerts)** (ICML 2024)
-- **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](/publication/2023-12-01-ceval)** (NeurIPS 2023)
-- **[Composing Parameter-Efficient Modules with Arithmetic Operations](/publication/2023-12-01-composing-parameter-efficient-modules-arithmetic)** (NeurIPS 2023)
+- **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-05-01-synlogic)** (Arxiv, 2025)
+- **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-06-01-perception-bottleneck-vlms-chart)** (Arxiv, 2025)
+- **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-11-01-universal-truthfulness-hyperplane)** (EMNLP 2024)
+- **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-06-01-in-context-sharpness-alerts)** (ICML 2024)
+- **[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-12-01-ceval)** (NeurIPS 2023)
+- **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-12-01-composing-parameter-efficient-modules-arithmetic)** (NeurIPS 2023)
 
 ## Contact
 
