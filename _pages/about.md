@@ -31,7 +31,7 @@ I am a first-year **PhD candidate** in Computer Science at the **Hong Kong Unive
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — NeurIPS 2023.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — NeurIPS 2023.
 
-The full list with author details is on the [Publications](/publications/) page.
+The full list with author details is on the [Publications](/LJT-Homepage/publications/) page.
 
 ## Awards
 - **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
